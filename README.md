@@ -11,7 +11,7 @@
 
 <img align="right" width="400" alt="GIF" src="https://i.gifer.com/6vIk.gif" >
 
-<p>Acadêmico de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB) com inglês intermediário e grande amante da tecnologia, desenvolvimento web, e solução de problemas.
+<p>Acadêmico de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB) com inglês intermediário e apaixonado em tecnologia, desenvolvimento web, e solucionar  problemas.
 </p>
      
      
