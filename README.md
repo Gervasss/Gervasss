@@ -2,7 +2,7 @@
 
 # Olá, eu sou Gervásio Gabriel! 
 
-<h4>Estudante de ciências da computação e desenvolvedor Full-stack <img src="https://i.pinimg.com/originals/c1/48/9e/c1489e8e276e19e40af67659c7661229.gif" width="25"> </h4>
+<h4>Estudante de ciências da computação e desenvolvedor Web<img src="https://i.pinimg.com/originals/c1/48/9e/c1489e8e276e19e40af67659c7661229.gif" width="25"> </h4>
 
 <div> 
   <a href = "mailto:gervasiocardoso10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
