@@ -20,6 +20,7 @@
 -  javascript
 -  Next.js
 -  css
+-  styled components
 -  html
 -  nodejs
 -  Typescript
