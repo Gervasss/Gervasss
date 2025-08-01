@@ -26,6 +26,7 @@
 -  Typescript
 -  Firebase
 -  Postgresql
+-  Prisma ORM
     
 📧 Me contate em: gervasiocardoso10@gmail.com
 
