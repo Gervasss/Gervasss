@@ -27,6 +27,9 @@
 -  Firebase
 -  Postgresql
 -  Prisma ORM
+-  Hetzner
+-  Coolify
+-  Heroku
     
 📧 Me contate em: gervasiocardoso10@gmail.com
 
