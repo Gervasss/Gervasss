@@ -33,7 +33,10 @@
     
 📧 Me contate em: gervasiocardoso10@gmail.com
 
- [📄 Clique aqui para acessar meu currículo](https://drive.google.com/file/d/18NHfXtnZIaKBRaWnkyUO5TN3rJxBt-Ri/view?usp=drivesdk)
+ [📄currículo](https://drive.google.com/file/d/18NHfXtnZIaKBRaWnkyUO5TN3rJxBt-Ri/view?usp=drivesdk)
+ 
+ [🌐 Portfólio](https://portfolio-av5x.vercel.app/)
+ 
 ### ⚒&nbsp;&nbsp;&nbsp;**Linguagens e Tecnologias:** 
 
 <div style="display: inline_block">
