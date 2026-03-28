@@ -14,7 +14,7 @@
 ### 📱 **Meus contatos:**
   📧 gervasiocardoso10@gmail.com
 
- [📄 Currículo](https://drive.google.com/file/d/1Rn_BXn8rHqkl7yXTQ8Oa_hTbD4c4_y8n/view?usp=sharing) | [🌐 Portfólio](https://portfolio-av5x.vercel.app/)
+ [📄 Currículo](https://drive.google.com/file/d/10yKY2BYXbjGlcjTw_lGl1KAekEcqYgr1/view?usp=sharing) | [🌐 Portfólio](https://portfolio-av5x.vercel.app/)
 
 ---
 
